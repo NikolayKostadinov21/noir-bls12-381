@@ -1,0 +1,8 @@
+[package]
+name = "bls12_381"
+type = "bin"
+authors = [""]
+compiler_version = ">=0.31.0"
+
+[dependencies]
+fields = { path = "../fields" }
